@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/AboutMe/static/css/main.5999ecc2.css",
+    "main.js": "/AboutMe/static/js/main.e82c28bd.js",
+    "static/media/personal-website.png": "/AboutMe/static/media/personal-website.edf9730f7832a03fdb71.png",
+    "static/media/lumurph.png": "/AboutMe/static/media/lumurph.0cac047fbe16d8968af3.png",
+    "static/media/Jack-Skywalker-Headshot.png": "/AboutMe/static/media/Jack-Skywalker-Headshot.6474098835f19796342a.png",
+    "static/media/background-header.jpeg": "/AboutMe/static/media/background-header.ab2710bc429bc44643cd.jpeg",
+    "static/media/github-projects.png": "/AboutMe/static/media/github-projects.757e82a4b4ef6390a6ad.png",
+    "static/media/js-logo.png": "/AboutMe/static/media/js-logo.d96a38577c92fa29ecd5.png",
+    "index.html": "/AboutMe/index.html",
+    "main.5999ecc2.css.map": "/AboutMe/static/css/main.5999ecc2.css.map",
+    "main.e82c28bd.js.map": "/AboutMe/static/js/main.e82c28bd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5999ecc2.css",
+    "static/js/main.e82c28bd.js"
+  ]
+}
